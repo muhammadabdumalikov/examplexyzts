@@ -1,0 +1,23 @@
+{
+  "name": "examplexyzts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadabdumalikov/examplexyzts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammadabdumalikov/examplexyzts/issues"
+  },
+  "homepage": "https://github.com/muhammadabdumalikov/examplexyzts#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
